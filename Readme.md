@@ -1,3 +1,4 @@
+> 2019-04-18 Forked to keep up with latest Slate versions.
 
 # `slate-sticky-inlines`
 
